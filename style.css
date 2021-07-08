@@ -1,0 +1,104 @@
+body{
+  background-color: #CDF0EA;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+color:#DA0037;
+font-size: 5.625rem;
+font-family: 'Dancing Script', cursive;
+}
+h2{
+  color:#DA0037;
+  font-size: 2.5rem;
+  font-family: 'Francois One', sans-serif;
+}
+h3{
+  color: #185ADB;
+  font-size: 30px;
+}
+p{
+  color: #000000;
+  font-size: 25px;
+  font-family: 'Volkhov', serif;
+  font-weight: normal;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+}
+.img1{
+  padding-top: 60px;
+  position: relative;
+  left:300px;
+}
+.img2{
+  position: absolute;
+}
+.name{
+  margin-bottom: 0;
+}
+.web{
+  margin-right: 50px;
+  float: left;
+  width: 25%;
+}
+.machine{
+  margin-left: 50px;
+  float: right;
+  width: 25%;
+}
+.app{
+  margin-right: 50px;
+  float: left;
+  width: 25%;
+}
+.coding{
+  margin-left: 50px;
+  float: right;
+  width: 25%;
+}
+
+.skill-row{
+  text-align: left;
+  margin: 100px auto 200px auto;
+  width: 50%;
+}
+.top-container{
+  margin-bottom: 50px;
+}
+hr{
+  border: dotted #78DEC7 6px;
+  width: 4%;
+  border-bottom: none;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #d93434;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.middle-container{
+  text-align: center;
+}
+.btn:hover {
+  background: #fc3c3c;
+  text-decoration: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.footer-link{
+  font-size: 20px;
+  margin: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color:#185ADB;
+}
+.copyright{
+  font-size: 18px;
+  color: #185ADB;
+}
